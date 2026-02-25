@@ -20,5 +20,10 @@
 	<classpathentry kind="lib" path="/Users/seph/eclipse-workspace/Assignment3/Assignment 2 artifacts/JFreeChart v1.0/lib/jcommon-1.0.5.jar"/>
 	<classpathentry kind="lib" path="/Users/seph/eclipse-workspace/Assignment3/Assignment 2 artifacts/JFreeChart v1.0/lib/objenesis-1.0.jar"/>
 	<classpathentry kind="lib" path="/Users/seph/eclipse-workspace/Assignment3/Assignment 2 artifacts/JFreeChart v1.0/lib/servlet.jar"/>
+	<classpathentry kind="lib" path="/Users/seph/Documents/GitHub/Assign3/JFreeChart v2.0/JFreeChart/lib/gnujaxp.jar"/>
+	<classpathentry kind="lib" path="/Users/seph/Documents/GitHub/Assign3/JFreeChart v2.0/JFreeChart/lib/jcommon-1.0.0-rc1-cvs.jar"/>
+	<classpathentry kind="lib" path="/Users/seph/Documents/GitHub/Assign3/JFreeChart v2.0/JFreeChart/lib/jcommon-1.0.5.jar"/>
+	<classpathentry kind="lib" path="/Users/seph/Documents/GitHub/Assign3/JFreeChart v2.0/JFreeChart/lib/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="/Users/seph/Documents/GitHub/Assign3/JFreeChart v2.0/JFreeChart/lib/servlet.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
